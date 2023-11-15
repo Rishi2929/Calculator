@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+body{
+    background-color: #3B4664;
+}
+.header{
+    text-align: center;
+}
+.calculator {
+    padding: 1px;
+    border-radius: 1em;
+    height: 40em;
+    width:2em;
+    margin: auto;
+    background-color: transparent;
+
+}
+
+#buttons{
+    font-family: 'Seoge UI', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    background-color:#EAE3DB;
+    color: black;
+    border: none;
+    width: 5em;
+    border-radius: 10px;
+    height: 70%;
+    outline: none;
+    margin: 0px;
+}
+
+.display-box {
+    font-family: 'Seoge UI', sans-serif;
+    font-weight: bold;
+    background-color: #dcdbe1;
+    border: solid black 0.5px;
+    color: white;
+    border-radius: 5px;
+    background-color: #181F32;
+    width: 31em;
+    height: 6rem;
+    column-gap: 10px;
+
+}
+
+
+#btn {
+    font-family: 'Seoge UI', sans-serif;
+     font-weight: bold;
+    background-color: #647299;
+    width: 16em;
+    height: 70%;
+    border: none;
+    border-radius: 10px;
+
+}
+#btn2{
+    background-color: #D13F30;
+    font-family: 'Seoge UI', sans-serif;
+    font-weight: bold;
+    width: 16em;
+    height: 70%;
+    border: none;
+    border-radius: 10px;
+}
+/* #result{
+    background-color: #181F32;
+    width: 31em;
+    height: 6rem;
+    column-gap: 10px;
+    padding: 10px;
+} */
+#delbtn{
+    font-family: 'Seoge UI', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    background-color:#647299;
+    color: black;
+    border: none;
+    width: 5em;
+    border-radius: 10px;
+    height: 70%;
+    outline: none;
+    margin: 0px;
+}
+
+
